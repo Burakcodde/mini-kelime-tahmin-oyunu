@@ -29,7 +29,7 @@ app.py dosyası, oyunun ana mantığını içerir. İşte dosyanın temel yapıs
 
 * kelime_listesi_cek fonksiyonu, kelime listesini bir API'den çeker. Eğer API'den kelime listesi çekilemezse, varsayılan bir kelime listesi kullanılır.
 * Rastgele bir kelime seçilir ve kullanıcıdan bu kelimeyi harf harf tahmin etmesi istenir.
-* * Kullanıcı her yanlış tahmin yaptığında, adam asmaca görseli güncellenir.
+* Kullanıcı her yanlış tahmin yaptığında, adam asmaca görseli güncellenir.
 Kullanıcı doğru kelimeyi tahmin ederse, tebrik mesajı gösterilir. Yanlış tahmin hakkı biterse, oyun sona erer ve doğru kelime gösterilir.
 
 ### Katkıda Bulunma
